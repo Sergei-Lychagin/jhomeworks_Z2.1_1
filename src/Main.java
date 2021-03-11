@@ -1,5 +1,9 @@
-public class App {
+public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        float prise = 510.00f;      
+        int bonus = (int)prise / 20;
+        
+System.out.println("Your bonus is" + "  " + bonus + " " + "Mil");
+
     }
 }
