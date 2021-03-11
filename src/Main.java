@@ -3,7 +3,7 @@ public class Main {
         float prise = 510.00f;      
         int bonus = (int)prise / 20;
         
-System.out.println("Your bonus is" + "  " + bonus + " " + "Mil");
+System.out.println("Your bonus is" + "  " + bonus + " " + "mil");
 
     }
 }
